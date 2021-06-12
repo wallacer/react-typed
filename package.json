@@ -57,6 +57,6 @@
   },
   "dependencies": {
     "prop-types": "^15.6.0",
-    "typed.js": "^2.0.6"
+    "typed.js": "git+https://wallacer@github.com/wallacer/typed.js.git"
   }
 }
